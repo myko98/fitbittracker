@@ -1,0 +1,8 @@
+https://www.fitbit.com/oauth2/authorize?client_id=23PHS7&response_type=code
+&code_challenge=Mff3_InG_VLpbrW5QCQC8Yc1DSQEcoB6ZTb-6GQX0&code_challenge_method=S256
+&scope=activity%20heartrate%20location%20nutrition%20oxygen_saturation%20profile
+%20respiratory_rate%20settings%20sleep%20social%20temperature%20weight
+
+https://github.com/myko98?code=2de2ad3db32f78d20e3495f5d859e34117d23dc6&state=5s1g2f1k2f1o5z29495d343j5l500x1r#_=_
+
+https://www.fitbit.com/oauth2/authorize?response_type=token&client_id=23PHV4&redirect_uri=https://github.com/myko98&scope=activity%20nutrition%20heartrate%20location%20nutrition%20profile%20settings%20sleep%20social%20weight&expires_in=31536000
